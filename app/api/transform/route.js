@@ -52,5 +52,3 @@ export async function POST(req) {
     return Response.json({ error: "Server error" }, { status: 500 });
   }
 }
-Compose
-Write to Janrose Parungao
